@@ -5,7 +5,7 @@
 ## Introduction
 Hell so this a updated 2024 look of Z-Sharp with some of my updated Z-Sharp i added more reasons to use this language and made more like C-Sharp;  is Z-Sharp a custom programming language that's made by AstroSam because he donsn't like c++ very much (Z-Sharp's interpreter is written in c++ though). Z-Sharp scripts have the file extension .ZS. The base syntax and formatting I would say is quite similar to C# or Python, but differs as task complexity increases. It also has support for graphics using SDL2. This is just my updated version of it and some more things i added into the language to make more efficient and for new coders that are trying to learn new languages.
 
-## All of AstroSams readme Below here.
+## All of AstroSams README Below here:
 Before using Z#:
 There is ***no documentation***, ***strings*** barely work, ***performance*** isn't great, the syntax is ***very specific***, and most errors just cause it to ***crash without warning***. I am just a *single developer* working on this during my free time; between school, other projects, and YouTube. Z-Sharp will most likely never be finished, since it was really supposed to end when the video was published about it.
 If you are trying to use a common programming language feature, ask yourself this: ***Is this feature required to play pong?*** If not, then most likely that feature ***has not been implemented yet***. I initially only made the language so I could create pong and make a video about it, so it really is the ***bare minimum***.
